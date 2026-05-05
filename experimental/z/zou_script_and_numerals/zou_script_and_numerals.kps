@@ -1,0 +1,50 @@
+<Files>
+    <File>
+      <Name>zou_script_and_numerals.kmx</Name>
+      <Description>Keyboard Zou Script and Numerals</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>zou_script_and_numerals.js</Name>
+      <Description>Keyboard Zou Script and Numerals</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>zou_script_and_numerals.kvk</Name>
+      <Description>Visual Keyboard Help File</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>welcome.htm</Name>
+      <Description>Welcome Page</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description>Readme Page</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>LICENSE.md</Name>
+      <Description>MIT License</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <Name>ZouScriptAndNumerals-Regular.ttf</Name>
+      <Description>Font Zou Script And Numerals Regular</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>zou_script_and_numerals.ico</Name>
+      <Description>Keyboard Icon</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ico</FileType>
+    </File>
+  </Files>

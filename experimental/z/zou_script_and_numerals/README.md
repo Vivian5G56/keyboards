@@ -1,29 +1,20 @@
-Zou Script and Numerals keyboard
-==============
+# Zou Script and Numerals
 
-Description
------------
-This is the first Zou digital keyboard designed, created, edited and published by Dr. T Marvin Zou with the help of his friend Dr. Vivian Pegu. Dr. T Marvin Zou belongs to the Zou community from Tibeto Burman, this Zou digital keyboard is free to use for all users to enchance learning, research and knowledge related to the Zou community. The Zou script consist of 27 Alphabets incontrast to the English alphabets, due to which I have to make some adjustment to include certain letters for eg- certain letters occupying , (comma), ? (question mark) etc due to insufficient Keys in the English keyboard for the Zou keyboard.
+This is the first Zou digital keyboard designed, created, edited and published by **Dr. T Marvin Zou**. Dr. T Marvin Zou belongs to the Zou community from Tibeto Burman. This Zou digital keyboard is free to use for all users to enhance learning, research and knowledge related to the Zou community.
 
-Links
------
-Keyboard Homepage: https://keyman.com/keyboards/zou_script_and_numerals
+## Keyboard Overview
+The Zou script consists of 27 alphabets. Due to the 26-key limit of the standard English keyboard, specific adjustments have been made to include the 27th letter and Zou numerals.
 
-Copyright
----------
-See [LICENSE.md](LICENSE.md)
+## How to Type
+* **Standard Letters:** Use keys `A-Z` for lowercase and `Shift` + `A-Z` for uppercase.
+* **The 27th Letter:** This character is mapped to the Left Bracket key `[`.
+* **Numerals:** Use the standard number row `0-9` to type Zou numerals.
 
-Supported Platforms
--------------------
- * Windows
- * macOS
- * Linux
- * Web
- * iPhone
- * iPad
- * Android phone
- * Android tablet
- * Mobile devices
- * Desktop devices
- * Tablet devices
+## Quick Reference Table
+| Key | Output |
+| :--- | :--- |
+| `[` | 27th Lowercase Letter |
+| `Shift` + `[` | 27th Uppercase Letter |
+| `0-9` | Zou Numerals (U+E040 - U+E049) |
 
+**Copyright © 2026 Dr. T Marvin Zou**

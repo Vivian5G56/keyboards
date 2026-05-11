@@ -1,17 +1,17 @@
-cantonese telex keyboard
+Assyrian Audo keyboard
 ==============
+
+© Atour Bejan
 
 Description
 -----------
-cantonese telex for Việt Ngữ Quóc Ngữ Țụ̆ (Cantonese). Cantonese Telex粵語國語字輸入法
+
+Assyrian Audo keyboard is designed for the Assyrian language. 
+This keyboard is a non-phonetic layout, and it is packaged with the Ramsina font.
 
 Links
 -----
-https://keyman.com/keyboards/cantonese_telex
-
-Copyright
----------
-See [LICENSE.md](LICENSE.md)
+https://keyman.com/keyboards/assyrian_audo
 
 Supported Platforms
 -------------------
@@ -26,4 +26,3 @@ Supported Platforms
  * Mobile devices
  * Desktop devices
  * Tablet devices
-

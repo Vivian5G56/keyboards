@@ -237,7 +237,7 @@ Languages for a QWERTY (US Keyboard)</Description>
     <Keyboard>
       <Name>Cameroon QWERTY</Name>
       <ID>sil_cameroon_qwerty</ID>
-      <Version>6.1.1</Version>
+      <Version>6.1.2</Version>
       <OSKFont>..\..\..\shared\fonts\sil\andika_subsets\AndikaAfr-R.ttf</OSKFont>
       <DisplayFont>..\..\..\shared\fonts\sil\andika_subsets\AndikaAfr-R.ttf</DisplayFont>
       <Languages>

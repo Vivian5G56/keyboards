@@ -1,12 +1,12 @@
-﻿c Version 1.0 of the Mising (Latin) virtual keyboard. Developed by Vivian Pegu. This layout is specifically engineered to support rigorous linguistic documentation, accurate phonetic transcription for pronunciation dictionaries, and clean data entry required for training NLP tools like morphological analyzers. It fully accommodates the standard Mising Agom Kébang (MAK) orthography.
+﻿c Version 1.0 of the Mising (Latin) keyboard. Developed by Vivian Pegu. This layout is specifically engineered to support rigorous linguistic documentation, accurate phonetic transcription for pronunciation dictionaries, and clean data entry required for training NLP tools like morphological analyzers. It fully accommodates the standard Mising Agom Kébang (MAK) orthography.
 store(&VERSION) '10.0'
-store(&NAME) 'Mising Keyboard'
+store(&NAME) 'Mising'
 store(&COPYRIGHT) 'Copyright © Vivian Pegu'
 store(&KEYBOARDVERSION) '1.0'
 store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
-store(&BITMAP) 'mising_keyboard.ico'
-store(&VISUALKEYBOARD) 'mising_keyboard.kvks'
-store(&LAYOUTFILE) 'mising_keyboard.keyman-touch-layout'
+store(&BITMAP) 'mising.ico'
+store(&VISUALKEYBOARD) 'mising.kvks'
+store(&LAYOUTFILE) 'mising.keyman-touch-layout'
 store(&MESSAGE) '"Mising (Latin) keyboard optimized for standard MAK orthography and linguistic transcription. Developed by Vivian Pegu."'
 
 begin Unicode > use(main)

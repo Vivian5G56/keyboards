@@ -1,4 +1,4 @@
-Mising Keyboard keyboard
+Mising Keyboard
 ==============
 
 Description
@@ -7,7 +7,7 @@ A comprehensive virtual keyboard engineered for the Mising language. Based on th
 
 Links
 -----
-Keyboard Homepage: https://keyman.com/keyboards/mising_keyboard
+Keyboard Homepage: https://keyman.com/keyboards/mising
 
 Copyright
 ---------
